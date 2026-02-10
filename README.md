@@ -33,6 +33,7 @@ sudo keep_toolchain=y keep_buildroot=y keep_rootfs=y keep_bootloader=y nice ./re
 
 
 4) VOILA! you can check your linux-MCU via any serial communicator like MINICOM / Putty.
+ 
    ``sudo minicom -D /dev/ttyACM0``
    
 ## ⚠️ NOTE: 
