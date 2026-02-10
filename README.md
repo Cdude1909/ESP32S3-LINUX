@@ -1,4 +1,4 @@
-# ESP32S3-LINUX
+# ESP32S3-LINUX 🔥
 
 Finally , after researching and experimenting my **ESP32S3 MCU**, i was finally able to achieve Buildroot based linux installation on my MCU. 
 🚀 **[16 MB FLASH , 8 MB FLASH]**
@@ -39,11 +39,13 @@ sudo keep_toolchain=y keep_buildroot=y keep_rootfs=y keep_bootloader=y nice ./re
    
 ## ⚠️ NOTE: 
 
-1) This installation and whole process can take aprrox. 2 hours depending upon your hardware. Make sure to note the PORT number of MCU Connected , generally `/dev/ttyACM0` or  `/dev/ttyS0` .
+1) **Make sure you have 20-40 GB free space , it will chew up space**
+
+2) This installation and whole process can take aprrox. 2 hours depending upon your hardware. Make sure to note the PORT number of MCU Connected , generally `/dev/ttyACM0` or  `/dev/ttyS0` .
    you can check that by simply running the command , `ls /dev/tty*`
   
 
-2) If Re-installing or re-running the script is needed , **DO NOT USE THE SCRIPT DIRECTLY OR ELSE REBUILD PROCESS WILL BE DONE WHICH WILL WASTE 2 hours of time again!**  Make sure this arguments are used :
+3) If Re-installing or re-running the script is needed , **DO NOT USE THE SCRIPT DIRECTLY OR ELSE REBUILD PROCESS WILL BE DONE WHICH WILL WASTE 2 hours of time again!**  Make sure this arguments are used :
    
 `sudo keep_toolchain=y keep_buildroot=y keep_rootfs=y keep_bootloader=y nice ./rebuild-esp32s3-linux-wifi.sh`
 
