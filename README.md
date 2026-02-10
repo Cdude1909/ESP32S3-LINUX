@@ -11,7 +11,7 @@ As described by @jcmvkbc ,
 `sudo apt install autoconf automake bash bc bison build-essential cmake flex gawk git gperf help2man libncurses-dev libtool libtool-bin libusb-1.0-0 python3 python3-venv rsync texinfo unzip wget`
 
 
-2) Finally run the script provided and everything will be automatic. Go for a coffee / Tea ,
+2) Run the script provided and everything will be automatic. Go for a coffee / Tea ,
  it will be an hour or two 🍵
 
 
