@@ -1,6 +1,6 @@
 # ESP32S3-LINUX 🔥
 
-Finally , after researching and experimenting my **ESP32S3 MCU**, i was finally able to achieve Buildroot based linux installation on my MCU. 
+After researching and experimenting my **ESP32S3 MCU**, i was finally able to achieve Buildroot based linux installation on my MCU. 
 🚀 **[16 MB FLASH , 8 MB FLASH]**
 ## Steps
 
