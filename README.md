@@ -11,7 +11,8 @@ As described by @jcmvkbc ,
 `sudo apt install autoconf automake bash bc bison build-essential cmake flex gawk git gperf help2man libncurses-dev libtool libtool-bin libusb-1.0-0 python3 python3-venv rsync texinfo unzip wget`
 
 
-2) Finally run the script provided and everything will be automatic. Go for a coffee / Tea , its will be hour or two 🍵⬇️
+2) Finally run the script provided and everything will be automatic. Go for a coffee / Tea ,
+ its will be hour or two 🍵⬇️
 
 
  `./rebuild-esp32s3-linux-wifi.sh`
