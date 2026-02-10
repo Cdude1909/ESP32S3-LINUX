@@ -12,7 +12,7 @@ As described by @jcmvkbc ,
 
 
 2) Finally run the script provided and everything will be automatic. Go for a coffee / Tea ,
- its will be hour or two 🍵⬇️
+ it will be hour or two 🍵⬇️
 
 
  `./rebuild-esp32s3-linux-wifi.sh`
